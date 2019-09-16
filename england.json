@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "population": 22315474 }, "geometry": { "type": "Point", "coordinates": [ 121.46, 31.22 ] } },
+
 { "type": "Feature", "properties": { "population": 13076300 }, "geometry": { "type": "Point", "coordinates": [ -58.38, -34.61 ] } },
 { "type": "Feature", "properties": { "population": 12691836 }, "geometry": { "type": "Point", "coordinates": [ 72.88, 19.07 ] } },
 { "type": "Feature", "properties": { "population": 12294193 }, "geometry": { "type": "Point", "coordinates": [ -99.13, 19.43 ] } },
