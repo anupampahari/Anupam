@@ -1,4 +1,4 @@
-code,city,country,lat,lon
+code,name,country,latitude,longitude
 BKL,Bangalore,INDIA,12.97,77.57
 MUM,Mumbai,INDIA,18.96,72.82
 KOL,Kolkata,INDIA,22.56,88.37
