@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1x2z",
+      "status": "Normal",
+      "date": "2019-08-29 12:16:37",
+      "location": "Mumbai",
+      "production": "Gigaplex plant"
+     
+    },
+    {
+        "id": "2x2z",
+        "status": "Critical",
+        "date": "2019-02-14 02:32:12",
+        "location": "Mumbai",
+        "production": "CKP plant"
+       
+      },
+      {
+        "id": "3x2z",
+        "status": "Critical",
+        "date": "2019-03-19 13:31:33",
+        "location": "Mumbai",
+        "production": "Yosemite plant"
+       
+      },
+      {
+        "id": "4x2z",
+        "status": "Warning",
+        "date": "2019-08-29 12:16:37",
+        "location": "Mumbai",
+        "production": "Mindspace plant"
+       
+      },
+      {
+        "id": "5x2z",
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Mumbai",
+        "production": "Akruti plant"
+       
+      },
+      {
+        "id": "6x2z",
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Mumbai",
+        "production": "Vikhroli plant"
+       
+      },
+
+      {
+        "id": "7x2z",
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Kolkata",
+        "production": "Rajarhat plant"
+       
+      },
+      {
+        "id": "8x2z",
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Bangalore",
+        "production": "Whitefield plant"
+       
+      },
+      {
+        "id": "9x2z",
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Banglore",
+        "production": "SEZ Bellandur plant"
+       
+      },
+      {
+        "id": "x2z11",
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Delhi",
+        "production": "Noida plant"
+       
+      }
+
+    ]

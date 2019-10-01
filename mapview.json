@@ -1,0 +1,110 @@
+[
+  {
+      "continent": "Asia",
+      "countries":[
+          {"country":"Singapore"},
+          {
+              "country": "India",
+               "cities": [
+                   {
+                    "city": "Bangalore",
+                    "locations": [
+                        {
+                            "location": "Factory ABC"
+                            
+                        },
+                        {
+                            "location": "Factory XYZ"
+                        }
+                    ]
+                },
+
+                {
+                    "city": "Mumbai",
+                    "locations": [
+                        {
+                            "location": "Factory 12"
+                            
+                        },
+                        {
+                            "location": "Factory 23"
+                        }
+                    ]  
+                }
+               ]
+            }
+      ]
+  },
+
+  {
+    "continent": "Europe",
+    "countries": [
+        {"country": "Italy"},
+        {
+            "country": "Germany",
+            "cities": [
+                {
+                    "city": "Munich",
+                    "locations": [
+                        {
+                            "location": "Factory ABC"
+                        },
+                        {
+                            "location": "Factory XYZ"
+                        }
+                    ]
+                },
+                {
+                    "city": "Berlin",
+                    "locations": [
+                        {
+                            "location": "Factory 12"
+                        },
+                        {
+                            "location": "Factory 23"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+},
+{
+    "continent": "Australia",
+    "countries":[
+        {"country": "New Zealand"},
+       
+        {
+            "country": "Australia",
+             "cities": [
+                 {
+                  "city": "Sydney",
+                  "locations": [
+                      {
+                          "location": "Factory ABC"
+                          
+                      },
+                      {
+                          "location": "Factory XYZ"
+                      }
+                  ]
+              },
+
+              {
+                  "city": "Melbourne",
+                  "locations": [
+                      {
+                          "location": "Factory 12"
+                          
+                      },
+                      {
+                          "location": "Factory 23"
+                      }
+                  ]  
+              }
+             ]
+          }
+    ]
+}
+ 
+]

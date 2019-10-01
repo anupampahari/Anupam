@@ -1,0 +1,52 @@
+[
+    {
+      "status": "Normal",
+      "date": "2019-08-29 12:16:37",
+      "location": "Dubai",
+      "production": "In Feeder"
+     
+    },
+    {
+        "status": "Critical",
+        "date": "2019-02-14 02:32:12",
+        "location": "Munich",
+        "production": "Picker Arm"
+       
+      },
+      {
+        "status": "Critical",
+        "date": "2019-03-19 13:31:33",
+        "location": "Tokyo",
+        "production": "Injection Molding Machine"
+       
+      },
+      {
+        "status": "Warning",
+        "date": "2019-03-19 13:31:33",
+        "location": "Paris",
+        "production": "Quality Assurance Vision System"
+       
+      },
+      {
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Moscow",
+        "production": "Product Sorter"
+       
+      },
+      {
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Moscow",
+        "production": "Out Feeder"
+       
+      },
+      {
+        "status": "Normal",
+        "date": "2019-08-29 12:16:37",
+        "location": "Moscow",
+        "production": "Stacker"
+       
+      }
+
+    ]
