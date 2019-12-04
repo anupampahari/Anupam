@@ -1,0 +1,70 @@
+[
+            {
+                "column": "DisplayValue",
+                "value": -0.0009879865057596398
+            },
+            {
+                "column": "ProcessState",
+                "value": 0.0011659489644464686
+            },
+            {
+                "column": "TimeSinceStart",
+                "value": 0.014245494599369345
+            },
+            {
+                "column": "WindingsTemp",
+                "value": -0.018960500420985443
+            },
+            {
+                "column": "FillLvl",
+                "value": 0.004405639341647856
+            },
+            {
+                "column": "NozzleTemp",
+                "value": -0.017135095483044645
+            },
+            {
+                "column": "Zone1Current",
+                "value": -0.028233306578504713
+            },
+            {
+                "column": "Zone3Current",
+                "value": 0.0017410690631462298
+            },
+            {
+                "column": "Zone4Current",
+                "value": 0.21680990977553122
+            },
+            {
+                "column": "Zone4Temp",
+                "value": 0.21157161423119752
+            },
+            {
+                "column": "InjectionPressure",
+                "value": 0.012146525039639592
+            },
+            {
+                "column": "RotAngle",
+                "value": 0.19462605650102077
+            },
+            {
+                "column": "XPos",
+                "value": 0.0018098616751907744
+            },
+            {
+                "column": "MoldDisplacement",
+                "value": -0.17848792857261303
+            },
+            {
+                "column": "MoldZoneTemp",
+                "value": 0.0023213205232230716
+            },
+            {
+                "column": "CycleCounter",
+                "value": -0.03003490838550346
+            },
+            {
+                "column": "CompletePercent",
+                "value": -0.03001993300929914
+            }
+        ]
