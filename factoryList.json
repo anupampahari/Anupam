@@ -1,0 +1,1018 @@
+[
+    {
+        "id": 1,
+        "name": "Factory 01",
+        "oeeFactory":"73%",
+        "performance":"77%",
+        "quality":"83%",
+        "breakdownLossess":"2 hrs",
+        "safetyIncidents":1,
+        "status": "warning",
+        "temp": 220,
+        "humidity": 80,
+        "alert": [
+            {
+                "production": "Moscow Onboard Computers",
+                "pl01": "PL A: Welding Invertor: Circuit board failure ",
+                "pl02": "PL C: Filler: Inaccurate filling levels",
+                "date": "2019-08-29",
+                "filler": "Inaccurate",
+                "feeder": "Normal",
+                "statusLevel": "low",
+                "weldingInvertor": "Circuit Borad OK",
+                "imm": "Normal"
+            }
+        ],
+        "imm": [
+            {
+                "id": "im01",
+                "line": "Factory 01",
+                "type": "IMM",
+                "alertIMM": "Melt temperature",
+                "time": "05:45",
+                "priority": "High",
+                "recom": "Set temparture to 220 C"
+            }
+        ],
+        "feeder": [
+            {
+                "id": "fe01",
+                "line": "Factory 01",
+                "type": "Feeder",
+                "alertFeeder": "Humidity level 95%",
+                "time": "05:30",
+                "priority": "High",
+                "recom": "Set Humidity level 80%"
+            },
+            {
+                "id": "fe02",
+                "line": "Factory 01",
+                "type": "Feeder",
+                "alertFeeder": "Hopper level low",
+                "time": "05:20",
+                "priority": "Med",
+                "recom": "Refill Hopper"
+            }
+        ],
+        "productionLine": [
+            {
+                "pid": 101,
+                "productionLineName": "Production Line 01",
+                "oeeLine": "30%",
+                "production": "40%",
+                "downtime": "6 hrs",
+                "quality": "80%",
+                "status":"critical",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "IMM: Melt temperature too high",
+                        "alert02": "Stacker: Boom Lift Cylinder drop",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "high",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim01",
+                        "line": "PL 01",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe011",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe012",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 102,
+                "productionLineName": "Production Line 02",
+                "oeeLine": "60%",
+                "production": "70%",
+                "downtime": "2 hrs",
+                "quality": "85%",
+                "status":"warning",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Feeder: Motor Speed Slow",
+                        "alert02": "Pump: Pressure intermittently low",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "low",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim02",
+                        "line": "PL 02",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe022",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe021",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 103,
+                "productionLineName": "Production Line 03",
+                "oeeLine": "80%",
+                "production": "90%",
+                "downtime": "0.5 hrs",
+                "quality": "92%",
+                "status":"normal",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Set Humidity to 80%",
+                        "alert02": "Normal",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "na",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim03",
+                        "line": "PL 03",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe031",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe032",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+                
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Factory 02",
+        "clickableID":"02",
+        "oeeFactory":"40%",
+        "performance":"50%",
+        "quality":"70%",
+        "breakdownLossess":"12 hrs",
+        "safetyIncidents":2,
+        "status": "critical",
+        "temp": 290,
+        "humidity": 90,
+        "pressure": 4.8,
+        "alert": [
+            {
+                "production": "Berlin Hydraulic Systems",
+                "pl01": "PL 01: IMM: Melt temperature too high",
+                "pl02": "PL 02: Feeder: Motor speed low",
+                "date": "2019-08-29",
+                "filler": "Low",
+                "feeder": "High",
+                "statusLevel": "high",
+                "weldingInvertor": "Circuit Borad Failure",
+                "imm": "High"
+            }
+        ],
+        "imm": [
+            {
+                "id": "im01",
+                "line": "Factory 02",
+                "type": "IMM",
+                "alertIMM": "Melt temperature",
+                "time": "05:45",
+                "priority": "High",
+                "recom": "Set temparture to 220 C"
+            }
+        ],
+        "feeder": [
+            {
+                "id": "fe01",
+                "line": "Factory 02",
+                "type": "Feeder",
+                "alertFeeder": "Humidity level 95%",
+                "time": "05:30",
+                "priority": "High",
+                "recom": "Set Humidity level 80%"
+            },
+            {
+                "id": "fe02",
+                "line": "Factory 02",
+                "type": "Feeder",
+                "alertFeeder": "Hopper level low",
+                "time": "05:20",
+                "priority": "Med",
+                "recom": "Refill Hopper"
+            }
+        ],
+        "productionLine": [
+            {
+                "pid": 101,
+                "productionLineName": "Production Line 01",
+                "oeeLine": "30%",
+                "production": "40%",
+                "downtime": "6 hrs",
+                "quality": "80%",
+                "status":"critical",
+                "WS01":"red",
+                "WS02":"red",
+                "WS03":"green",
+                "WS04":"green",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "IMM: Melt temperature too high",
+                        "alert02": "Stacker: Boom Lift Cylinder drop",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "high",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim01",
+                        "line": "PL 01",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe011",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe012",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 102,
+                "productionLineName": "Production Line 02",
+                "oeeLine": "60%",
+                "production": "70%",
+                "downtime": "2 hrs",
+                "quality": "85%",
+                "status":"warning",
+                "WS01":"red",
+                "WS02":"yellow",
+                "WS03":"green",
+                "WS04":"green",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Feeder: Motor Speed Slow",
+                        "alert02": "Pump: Pressure intermittently low",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "low",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim02",
+                        "line": "PL 02",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe022",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe021",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 103,
+                "productionLineName": "Production Line 03",
+                "oeeLine": "80%",
+                "production": "90%",
+                "downtime": "0.5 hrs",
+                "quality": "92%",
+                "status":"normal",
+                "WS01":"green",
+                "WS02":"green",
+                "WS03":"green",
+                "WS04":"green",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Set Humidity to 80%",
+                        "alert02": "Normal",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "na",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim03",
+                        "line": "PL 03",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe031",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe032",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+                
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Factory 03",
+        "oeeFactory":"95%",
+        "performance":"93%",
+        "quality":"99%",
+        "breakdownLossess":"0.51 hrs",
+        "safetyIncidents":0,
+        "status": "normal",
+        "temp": 100,
+        "pressure": 4.5,
+        "productionLine": [
+            {
+                "pid": 101,
+                "productionLineName": "Production Line 01",
+                "oeeLine": "30%",
+                "production": "40%",
+                "downtime": "6 hrs",
+                "quality": "80%",
+                "status":"critical",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "IMM: Melt temperature too high",
+                        "alert02": "Stacker: Boom Lift Cylinder drop",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "high",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim01",
+                        "line": "PL 01",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe011",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe012",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 102,
+                "productionLineName": "Production Line 02",
+                "oeeLine": "60%",
+                "production": "70%",
+                "downtime": "2 hrs",
+                "quality": "85%",
+                "status":"warning",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Feeder: Motor Speed Slow",
+                        "alert02": "Pump: Pressure intermittently low",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "low",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim02",
+                        "line": "PL 02",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe022",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe021",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 103,
+                "productionLineName": "Production Line 03",
+                "oeeLine": "80%",
+                "production": "90%",
+                "downtime": "0.5 hrs",
+                "quality": "92%",
+                "status":"normal",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Set Humidity to 80%",
+                        "alert02": "Normal",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "na",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim03",
+                        "line": "PL 03",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe031",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe032",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+                
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Factory 04",
+        "oeeFactory":"0%",
+        "performance":"0%",
+        "quality":"0%",
+        "breakdownLossess":"0 hrs",
+        "safetyIncidents":0,
+        "status": "not working",
+        "temp": 30,
+        "pressure": 3.5,
+        "productionLine": [
+            {
+                "pid": 101,
+                "productionLineName": "Production Line 01",
+                "oeeLine": "30%",
+                "production": "40%",
+                "downtime": "6 hrs",
+                "quality": "80%",
+                "status":"critical",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "IMM: Melt temperature too high",
+                        "alert02": "Stacker: Boom Lift Cylinder drop",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "high",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim01",
+                        "line": "PL 01",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe011",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe012",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 102,
+                "productionLineName": "Production Line 02",
+                "oeeLine": "60%",
+                "production": "70%",
+                "downtime": "2 hrs",
+                "quality": "85%",
+                "status":"warning",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Feeder: Motor Speed Slow",
+                        "alert02": "Pump: Pressure intermittently low",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "low",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim02",
+                        "line": "PL 02",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe022",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe021",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 103,
+                "productionLineName": "Production Line 03",
+                "oeeLine": "80%",
+                "production": "90%",
+                "downtime": "0.5 hrs",
+                "quality": "92%",
+                "status":"normal",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Set Humidity to 80%",
+                        "alert02": "Normal",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "na",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim03",
+                        "line": "PL 03",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe031",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe032",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+                
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Factory 06",
+        "oeeFactory":"40%",
+        "performance":"50%",
+        "quality":"70%",
+        "breakdownLossess":"12 hrs",
+        "safetyIncidents":2,
+        "status": "critical",
+        "temp": 300,
+        "pressure": 4.0,
+        "alert": [
+            {
+                "production": "Tokyo Petrol Engine",
+                "pl01": "PL 01: IMM: Melt temperature too high",
+                "pl02": "PL 02: Feeder: Motor speed low",
+                "date": "2019-08-29",
+                "filler": "Low",
+                "feeder": "High",
+                "statusLevel": "high",
+                "weldingInvertor": "Circuit Borad Failure",
+                "imm": "High"
+            }
+        ],
+        "imm": [
+            {
+                "id": "im01",
+                "line": "Factory 06",
+                "type": "IMM",
+                "alertIMM": "Melt temperature",
+                "time": "05:45",
+                "priority": "High",
+                "recom": "Set temparture to 220 C"
+            }
+        ],
+        "feeder": [
+            {
+                "id": "fe01",
+                "line": "Factory 06",
+                "type": "Feeder",
+                "alertFeeder": "Humidity level 95%",
+                "time": "05:30",
+                "priority": "High",
+                "recom": "Set Humidity level 80%"
+            },
+            {
+                "id": "fe02",
+                "line": "Factory 06",
+                "type": "Feeder",
+                "alertFeeder": "Hopper level low",
+                "time": "05:20",
+                "priority": "Med",
+                "recom": "Refill Hopper"
+            }
+        ],
+        "productionLine": [
+                        {
+                "pid": 101,
+                "productionLineName": "Production Line 01",
+                "oeeLine": "30%",
+                "production": "40%",
+                "downtime": "6 hrs",
+                "quality": "80%",
+                "status":"critical",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "IMM: Melt temperature too high",
+                        "alert02": "Stacker: Boom Lift Cylinder drop",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "high",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim01",
+                        "line": "PL 01",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe011",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe012",
+                        "line": "PL 01",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 102,
+                "productionLineName": "Production Line 02",
+                "oeeLine": "60%",
+                "production": "70%",
+                "downtime": "2 hrs",
+                "quality": "85%",
+                "status":"warning",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Feeder: Motor Speed Slow",
+                        "alert02": "Pump: Pressure intermittently low",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "low",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim02",
+                        "line": "PL 02",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe022",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe021",
+                        "line": "PL 02",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+            },
+            {
+                "pid": 103,
+                "productionLineName": "Production Line 03",
+                "oeeLine": "80%",
+                "production": "90%",
+                "downtime": "0.5 hrs",
+                "quality": "92%",
+                "status":"normal",
+                "alert": [
+                    {
+                        "production": "Moscow Onboard Computers",
+                        "alert01": "Set Humidity to 80%",
+                        "alert02": "Normal",
+                        "date": "2019-08-29",
+                        "filler": "Inaccurate",
+                        "feeder": "Normal",
+                        "statusLevel": "na",
+                        "weldingInvertor": "Circuit Borad OK",
+                        "imm": "Normal"
+                    }
+                ],
+                "imm": [
+                    {
+                        "id": "plim03",
+                        "line": "PL 03",
+                        "type": "IMM",
+                        "alertIMM": "Melt temperature",
+                        "time": "05:45",
+                        "priority": "High",
+                        "recom": "Set temparture to 220 C"
+                    }
+                ],
+                "feeder": [
+                    {
+                        "id": "plfe031",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Humidity level 95%",
+                        "time": "05:30",
+                        "priority": "High",
+                        "recom": "Set Humidity level 80%"
+                    },
+                    {
+                        "id": "plfe032",
+                        "line": "PL 03",
+                        "type": "Feeder",
+                        "alertFeeder": "Hopper level low",
+                        "time": "05:20",
+                        "priority": "Medium",
+                        "recom": "Refill Hopper"
+                    }
+                ]
+                
+            }
+        ]
+    }
+]
