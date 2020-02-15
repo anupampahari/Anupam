@@ -1,0 +1,405 @@
+{
+    "machineName": "IMM",
+    "sensorEvents": [
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 0.038073238261058844
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 0.03867310652870589
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 0.03927297479635294
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 0.039872843063999984
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 0.04047271133164703
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 0.04107257959929408
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 0.041672447866941124
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 0.04227231613458817
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 0.04287218440223522
+        },
+        {
+            "sensorDisplayName": "FillLvl",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 0.043472052669882265
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "Zone4Temp",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 270
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 21
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 21
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 21
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 21
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 21
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 21.693663092158037
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 21.693663092158037
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 21.693663092158037
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 21
+        },
+        {
+            "sensorDisplayName": "WindingsTemp",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 21
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 44.2
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 44.2
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 44.2
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 44.2
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 44.2
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 35.85503994941711
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 18.12199957847595
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 0.36243902206420897
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "XPos",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Voltage",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 212
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "Zone1Temp",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 220
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 200.55841909950254
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 200.55841909950254
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 200.55841909950254
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 200.55841909950254
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 200.55841909950254
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 19.87380658046709
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 17.855334837226792
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 14.757067222366333
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 202.35802167629254
+        },
+        {
+            "sensorDisplayName": "RotAngle",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 202.35802167629254
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:32Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:29Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:28Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:26Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:24Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:22Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:20Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:18Z",
+            "value": 0
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:16Z",
+            "value": 70.07035829263303
+        },
+        {
+            "sensorDisplayName": "InjectionPressure",
+            "eventTime": "2020-02-14T10:26:14Z",
+            "value": 603.6035866662876
+        }
+    ]
+}
