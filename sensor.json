@@ -3,102 +3,12 @@
     "sensorEvents": [
         {
             "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:38Z",
-            "value": 221.94753366575094
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:36Z",
-            "value": 221.9416309989366
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:34Z",
-            "value": 221.93511280854094
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:32Z",
-            "value": 221.92789714699626
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:30Z",
-            "value": 221.91990024832913
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:28Z",
-            "value": 221.91106809332692
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:26Z",
-            "value": 221.90128430783562
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:24Z",
-            "value": 221.89046169149947
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:22Z",
-            "value": 221.87851492700318
-        },
-        {
-            "sensorId": "ns=1;s=NozzleTemp",
-            "eventTime": "2020-02-17T09:38:20Z",
-            "value": 221.86525396185212
+            "eventTime": "2020-02-17T09:40:38Z",
+            "value": 221.96104268274232
         },
         {
             "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:38Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:36Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:34Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:32Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:30Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:28Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:26Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:24Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:22Z",
-            "value": 0
-        },
-        {
-            "sensorId": "ns=1;s=InjectionPressure",
-            "eventTime": "2020-02-17T09:38:20Z",
+            "eventTime": "2020-02-17T09:40:38Z",
             "value": 0
         }
     ]
