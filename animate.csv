@@ -1,4 +1,4 @@
-type,date,Line 1,Line 2,Line 3,Line 4
+type,date,xPos,Zone4Temp,Injection Pressure,Nozzle Temperature
 val1,1/1/00,11.361,40.863,106.118,33.896
 val1,1/1/01,9.552,39.713,123.521,32.408
 val1,1/1/02,8.576,38.091,137.61,33.204
