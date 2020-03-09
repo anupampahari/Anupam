@@ -1,4 +1,34 @@
 month,bidding_no,vehicle_class,premium
+2010-01,1,HeaterFailureAlarm,0
+2010-01,1,XPos,19190
+2010-01,1,ZoneTemp,19001
+2010-01,1,Operational State,889
+2010-01,1,Injection Pressure,19889
+2010-01,2,HeaterFailureAlarm,0
+2010-01,2,XPos,22400
+2010-01,2,ZoneTemp,20090
+2010-01,2,Operational State,852
+2010-01,2,Injection Pressure,21899
+2010-02,1,HeaterFailureAlarm,19989
+2010-02,1,XPos,23180
+2010-02,1,ZoneTemp,21390
+2010-02,1,Operational State,852
+2010-02,1,Injection Pressure,22401
+2010-02,2,HeaterFailureAlarm,20340
+2010-02,2,XPos,23889
+2010-02,2,ZoneTemp,23501
+2010-02,2,Operational State,1001
+2010-02,2,Injection Pressure,24229
+2010-03,1,HeaterFailureAlarm,20802
+2010-03,1,XPos,26389
+2010-03,1,ZoneTemp,27001
+2010-03,1,Operational State,1159
+2010-03,1,Injection Pressure,27590
+2010-03,2,HeaterFailureAlarm,28389
+2010-03,2,XPos,36089
+2010-03,2,ZoneTemp,32890
+2010-03,2,Operational State,1200
+2010-03,2,Injection Pressure,42001
 2010-04,1,HeaterFailureAlarm,34001
 2010-04,1,XPos,45501
 2010-04,1,ZoneTemp,36511
@@ -609,3 +639,443 @@ month,bidding_no,vehicle_class,premium
 2015-04,2,ZoneTemp,53001
 2015-04,2,Operational State,6801
 2015-04,2,Injection Pressure,79500
+2015-05,1,HeaterFailureAlarm,68589
+2015-05,1,XPos,77600
+2015-05,1,ZoneTemp,50098
+2015-05,1,Operational State,6512
+2015-05,1,Injection Pressure,78004
+2015-05,2,HeaterFailureAlarm,66590
+2015-05,2,XPos,75002
+2015-05,2,ZoneTemp,52001
+2015-05,2,Operational State,6501
+2015-05,2,Injection Pressure,78001
+2015-06,1,HeaterFailureAlarm,66000
+2015-06,1,XPos,75000
+2015-06,1,ZoneTemp,50900
+2015-06,1,Operational State,6509
+2015-06,1,Injection Pressure,75801
+2015-06,2,HeaterFailureAlarm,61000
+2015-06,2,XPos,71509
+2015-06,2,ZoneTemp,50502
+2015-06,2,Operational State,6401
+2015-06,2,Injection Pressure,74501
+2015-07,1,HeaterFailureAlarm,58700
+2015-07,1,XPos,65501
+2015-07,1,ZoneTemp,50001
+2015-07,1,Operational State,6508
+2015-07,1,Injection Pressure,69001
+2015-07,2,HeaterFailureAlarm,55889
+2015-07,2,XPos,58109
+2015-07,2,ZoneTemp,50002
+2015-07,2,Operational State,6312
+2015-07,2,Injection Pressure,60101
+2015-08,1,HeaterFailureAlarm,56209
+2015-08,1,XPos,60789
+2015-08,1,ZoneTemp,49302
+2015-08,1,Operational State,6201
+2015-08,1,Injection Pressure,57885
+2015-08,2,HeaterFailureAlarm,57498
+2015-08,2,XPos,62140
+2015-08,2,ZoneTemp,46501
+2015-08,2,Operational State,6112
+2015-08,2,Injection Pressure,61001
+2015-09,1,HeaterFailureAlarm,57089
+2015-09,1,XPos,62101
+2015-09,1,ZoneTemp,46801
+2015-09,1,Operational State,6512
+2015-09,1,Injection Pressure,61010
+2015-09,2,HeaterFailureAlarm,55399
+2015-09,2,XPos,60001
+2015-09,2,ZoneTemp,45289
+2015-09,2,Operational State,6158
+2015-09,2,Injection Pressure,61300
+2015-10,1,HeaterFailureAlarm,56001
+2015-10,1,XPos,58190
+2015-10,1,ZoneTemp,44890
+2015-10,1,Operational State,6201
+2015-10,1,Injection Pressure,58801
+2015-10,2,HeaterFailureAlarm,57301
+2015-10,2,XPos,59889
+2015-10,2,ZoneTemp,42303
+2015-10,2,Operational State,6302
+2015-10,2,Injection Pressure,60000
+2015-11,1,HeaterFailureAlarm,56001
+2015-11,1,XPos,57501
+2015-11,1,ZoneTemp,43809
+2015-11,1,Operational State,5912
+2015-11,1,Injection Pressure,60689
+2015-11,2,HeaterFailureAlarm,59200
+2015-11,2,XPos,61103
+2015-11,2,ZoneTemp,45890
+2015-11,2,Operational State,6502
+2015-11,2,Injection Pressure,62019
+2015-12,1,HeaterFailureAlarm,56989
+2015-12,1,XPos,60001
+2015-12,1,ZoneTemp,48101
+2015-12,1,Operational State,6501
+2015-12,1,Injection Pressure,60003
+2015-12,2,HeaterFailureAlarm,54301
+2015-12,2,XPos,55001
+2015-12,2,ZoneTemp,46001
+2015-12,2,Operational State,6600
+2015-12,2,Injection Pressure,57501
+2016-01,1,HeaterFailureAlarm,45002
+2016-01,1,XPos,54920
+2016-01,1,ZoneTemp,42036
+2016-01,1,Operational State,6889
+2016-01,1,Injection Pressure,55089
+2016-01,2,HeaterFailureAlarm,51301
+2016-01,2,XPos,50089
+2016-01,2,ZoneTemp,46502
+2016-01,2,Operational State,6512
+2016-01,2,Injection Pressure,51000
+2016-02,1,HeaterFailureAlarm,46651
+2016-02,1,XPos,38610
+2016-02,1,ZoneTemp,45036
+2016-02,1,Operational State,6503
+2016-02,1,Injection Pressure,44001
+2016-02,2,HeaterFailureAlarm,43000
+2016-02,2,XPos,46970
+2016-02,2,ZoneTemp,45001
+2016-02,2,Operational State,6353
+2016-02,2,Injection Pressure,45009
+2016-03,1,HeaterFailureAlarm,45000
+2016-03,1,XPos,47604
+2016-03,1,ZoneTemp,48890
+2016-03,1,Operational State,6503
+2016-03,1,Injection Pressure,48002
+2016-03,2,HeaterFailureAlarm,45504
+2016-03,2,XPos,46502
+2016-03,2,ZoneTemp,46502
+2016-03,2,Operational State,6589
+2016-03,2,Injection Pressure,46667
+2016-04,1,HeaterFailureAlarm,46009
+2016-04,1,XPos,47000
+2016-04,1,ZoneTemp,44213
+2016-04,1,Operational State,6503
+2016-04,1,Injection Pressure,47510
+2016-04,2,HeaterFailureAlarm,47300
+2016-04,2,XPos,49602
+2016-04,2,ZoneTemp,43002
+2016-04,2,Operational State,6501
+2016-04,2,Injection Pressure,49501
+2016-05,1,HeaterFailureAlarm,47889
+2016-05,1,XPos,51010
+2016-05,1,ZoneTemp,42302
+2016-05,1,Operational State,6302
+2016-05,1,Injection Pressure,49000
+2016-05,2,HeaterFailureAlarm,47020
+2016-05,2,XPos,49156
+2016-05,2,ZoneTemp,43002
+2016-05,2,Operational State,6303
+2016-05,2,Injection Pressure,49700
+2016-06,1,HeaterFailureAlarm,53694
+2016-06,1,XPos,56000
+2016-06,1,ZoneTemp,46434
+2016-06,1,Operational State,6302
+2016-06,1,Injection Pressure,55100
+2016-06,2,HeaterFailureAlarm,55200
+2016-06,2,XPos,57010
+2016-06,2,ZoneTemp,48002
+2016-06,2,Operational State,6303
+2016-06,2,Injection Pressure,57390
+2016-07,1,HeaterFailureAlarm,52301
+2016-07,1,XPos,56089
+2016-07,1,ZoneTemp,47889
+2016-07,1,Operational State,6012
+2016-07,1,Injection Pressure,56002
+2016-07,2,HeaterFailureAlarm,53000
+2016-07,2,XPos,57508
+2016-07,2,ZoneTemp,49890
+2016-07,2,Operational State,6302
+2016-07,2,Injection Pressure,57501
+2016-08,1,HeaterFailureAlarm,52503
+2016-08,1,XPos,57903
+2016-08,1,ZoneTemp,48302
+2016-08,1,Operational State,6206
+2016-08,1,Injection Pressure,58201
+2016-08,2,HeaterFailureAlarm,53334
+2016-08,2,XPos,56500
+2016-08,2,ZoneTemp,48001
+2016-08,2,Operational State,6352
+2016-08,2,Injection Pressure,56956
+2016-09,1,HeaterFailureAlarm,51506
+2016-09,1,XPos,57002
+2016-09,1,ZoneTemp,49801
+2016-09,1,Operational State,6452
+2016-09,1,Injection Pressure,56889
+2016-09,2,HeaterFailureAlarm,50000
+2016-09,2,XPos,55501
+2016-09,2,ZoneTemp,49890
+2016-09,2,Operational State,6501
+2016-09,2,Injection Pressure,55201
+2016-10,1,HeaterFailureAlarm,51507
+2016-10,1,XPos,53001
+2016-10,1,ZoneTemp,48702
+2016-10,1,Operational State,6353
+2016-10,1,Injection Pressure,54200
+2016-10,2,HeaterFailureAlarm,50991
+2016-10,2,XPos,56410
+2016-10,2,ZoneTemp,45589
+2016-10,2,Operational State,6354
+2016-10,2,Injection Pressure,56340
+2016-11,1,HeaterFailureAlarm,52668
+2016-11,1,XPos,56206
+2016-11,1,ZoneTemp,48001
+2016-11,1,Operational State,6311
+2016-11,1,Injection Pressure,56000
+2016-11,2,HeaterFailureAlarm,50951
+2016-11,2,XPos,53001
+2016-11,2,ZoneTemp,49002
+2016-11,2,Operational State,6212
+2016-11,2,Injection Pressure,54901
+2016-12,1,HeaterFailureAlarm,48000
+2016-12,1,XPos,46229
+2016-12,1,ZoneTemp,51209
+2016-12,1,Operational State,6113
+2016-12,1,Injection Pressure,50010
+2016-12,2,HeaterFailureAlarm,49751
+2016-12,2,XPos,51109
+2016-12,2,ZoneTemp,49500
+2016-12,2,Operational State,6101
+2016-12,2,Injection Pressure,50389
+2017-01,1,HeaterFailureAlarm,50101
+2017-01,1,XPos,53106
+2017-01,1,ZoneTemp,46302
+2017-01,1,Operational State,6053
+2017-01,1,Injection Pressure,53001
+2017-01,2,HeaterFailureAlarm,50889
+2017-01,2,XPos,52807
+2017-01,2,ZoneTemp,47001
+2017-01,2,Operational State,6052
+2017-01,2,Injection Pressure,52600
+2017-02,1,HeaterFailureAlarm,48401
+2017-02,1,XPos,48209
+2017-02,1,ZoneTemp,48901
+2017-02,1,Operational State,6412
+2017-02,1,Injection Pressure,48556
+2017-02,2,HeaterFailureAlarm,49430
+2017-02,2,XPos,50621
+2017-02,2,ZoneTemp,49810
+2017-02,2,Operational State,6801
+2017-02,2,Injection Pressure,51000
+2017-03,1,HeaterFailureAlarm,50789
+2017-03,1,XPos,53300
+2017-03,1,ZoneTemp,49002
+2017-03,1,Operational State,7483
+2017-03,1,Injection Pressure,53001
+2017-03,2,HeaterFailureAlarm,51765
+2017-03,2,XPos,54000
+2017-03,2,ZoneTemp,47036
+2017-03,2,Operational State,8081
+2017-03,2,Injection Pressure,54501
+2017-04,1,HeaterFailureAlarm,52000
+2017-04,1,XPos,54405
+2017-04,1,ZoneTemp,45906
+2017-04,1,Operational State,7589
+2017-04,1,Injection Pressure,54556
+2017-04,2,HeaterFailureAlarm,51600
+2017-04,2,XPos,54406
+2017-04,2,ZoneTemp,26501
+2017-04,2,Operational State,6712
+2017-04,2,Injection Pressure,54616
+2017-05,1,HeaterFailureAlarm,51106
+2017-05,1,XPos,55414
+2017-05,1,ZoneTemp,26029
+2017-05,1,Operational State,6301
+2017-05,1,Injection Pressure,55000
+2017-05,2,HeaterFailureAlarm,46489
+2017-05,2,XPos,53001
+2017-05,2,ZoneTemp,30600
+2017-05,2,Operational State,6101
+2017-05,2,Injection Pressure,52000
+2017-06,1,HeaterFailureAlarm,45201
+2017-06,1,XPos,50110
+2017-06,1,ZoneTemp,38501
+2017-06,1,Operational State,6101
+2017-06,1,Injection Pressure,50526
+2017-06,2,HeaterFailureAlarm,42801
+2017-06,2,XPos,47501
+2017-06,2,ZoneTemp,36879
+2017-06,2,Operational State,6001
+2017-06,2,Injection Pressure,48001
+2017-07,1,HeaterFailureAlarm,42801
+2017-07,1,XPos,49802
+2017-07,1,ZoneTemp,40212
+2017-07,1,Operational State,6001
+2017-07,1,Injection Pressure,49899
+2017-07,2,HeaterFailureAlarm,44002
+2017-07,2,XPos,50001
+2017-07,2,ZoneTemp,42809
+2017-07,2,Operational State,5851
+2017-07,2,Injection Pressure,50101
+2017-08,1,HeaterFailureAlarm,46778
+2017-08,1,XPos,53711
+2017-08,1,ZoneTemp,42801
+2017-08,1,Operational State,5701
+2017-08,1,Injection Pressure,52751
+2017-08,2,HeaterFailureAlarm,42900
+2017-08,2,XPos,51000
+2017-08,2,ZoneTemp,42004
+2017-08,2,Operational State,3512
+2017-08,2,Injection Pressure,50000
+2017-09,1,HeaterFailureAlarm,36001
+2017-09,1,XPos,49000
+2017-09,1,ZoneTemp,43002
+2017-09,1,Operational State,5402
+2017-09,1,Injection Pressure,48005
+2017-09,2,HeaterFailureAlarm,42902
+2017-09,2,XPos,49189
+2017-09,2,ZoneTemp,46890
+2017-09,2,Operational State,5501
+2017-09,2,Injection Pressure,49012
+2017-10,1,HeaterFailureAlarm,41761
+2017-10,1,XPos,48109
+2017-10,1,ZoneTemp,48902
+2017-10,1,Operational State,5010
+2017-10,1,Injection Pressure,49000
+2017-10,2,HeaterFailureAlarm,41617
+2017-10,2,XPos,49996
+2017-10,2,ZoneTemp,51890
+2017-10,2,Operational State,4903
+2017-10,2,Injection Pressure,52000
+2017-11,1,HeaterFailureAlarm,47112
+2017-11,1,XPos,57414
+2017-11,1,ZoneTemp,58036
+2017-11,1,Operational State,5502
+2017-11,1,Injection Pressure,57000
+2017-11,2,HeaterFailureAlarm,46791
+2017-11,2,XPos,57390
+2017-11,2,ZoneTemp,57701
+2017-11,2,Operational State,5992
+2017-11,2,Injection Pressure,57501
+2017-12,1,HeaterFailureAlarm,42339
+2017-12,1,XPos,53711
+2017-12,1,ZoneTemp,42000
+2017-12,1,Operational State,6552
+2017-12,1,Injection Pressure,54334
+2017-12,2,HeaterFailureAlarm,38200
+2017-12,2,XPos,47002
+2017-12,2,ZoneTemp,45112
+2017-12,2,Operational State,7501
+2017-12,2,Injection Pressure,48011
+2018-01,1,HeaterFailureAlarm,41400
+2018-01,1,XPos,45289
+2018-01,1,ZoneTemp,40101
+2018-01,1,Operational State,7701
+2018-01,1,Injection Pressure,47390
+2018-01,2,HeaterFailureAlarm,36890
+2018-01,2,XPos,42661
+2018-01,2,ZoneTemp,39000
+2018-01,2,Operational State,8001
+2018-01,2,Injection Pressure,44000
+2018-02,1,HeaterFailureAlarm,40000
+2018-02,1,XPos,42322
+2018-02,1,ZoneTemp,38303
+2018-02,1,Operational State,8451
+2018-02,1,Injection Pressure,39903
+2018-02,2,HeaterFailureAlarm,36810
+2018-02,2,XPos,39000
+2018-02,2,ZoneTemp,36859
+2018-02,2,Operational State,7667
+2018-02,2,Injection Pressure,38801
+2018-03,1,HeaterFailureAlarm,38830
+2018-03,1,XPos,39001
+2018-03,1,ZoneTemp,36003
+2018-03,1,Operational State,8009
+2018-03,1,Injection Pressure,39000
+2018-03,2,HeaterFailureAlarm,38000
+2018-03,2,XPos,37010
+2018-03,2,ZoneTemp,35001
+2018-03,2,Operational State,7602
+2018-03,2,Injection Pressure,38000
+2018-04,1,HeaterFailureAlarm,37000
+2018-04,1,XPos,37605
+2018-04,1,ZoneTemp,34001
+2018-04,1,Operational State,7114
+2018-04,1,Injection Pressure,38039
+2018-04,2,HeaterFailureAlarm,38510
+2018-04,2,XPos,37330
+2018-04,2,ZoneTemp,34202
+2018-04,2,Operational State,7115
+2018-04,2,Injection Pressure,38389
+2018-05,1,HeaterFailureAlarm,38941
+2018-05,1,XPos,38501
+2018-05,1,ZoneTemp,33190
+2018-05,1,Operational State,7204
+2018-05,1,Injection Pressure,38600
+2018-05,2,HeaterFailureAlarm,38001
+2018-05,2,XPos,37989
+2018-05,2,ZoneTemp,29901
+2018-05,2,Operational State,7115
+2018-05,2,Injection Pressure,38700
+2018-06,1,HeaterFailureAlarm,36426
+2018-06,1,XPos,36000
+2018-06,1,ZoneTemp,29902
+2018-06,1,Operational State,7001
+2018-06,1,Injection Pressure,37000
+2018-06,2,HeaterFailureAlarm,34110
+2018-06,2,XPos,33900
+2018-06,2,ZoneTemp,32001
+2018-06,2,Operational State,6889
+2018-06,2,Injection Pressure,34400
+2018-07,1,HeaterFailureAlarm,25000
+2018-07,1,XPos,31000
+2018-07,1,ZoneTemp,31092
+2018-07,1,Operational State,6514
+2018-07,1,Injection Pressure,31001
+2018-07,2,HeaterFailureAlarm,32699
+2018-07,2,XPos,32551
+2018-07,2,ZoneTemp,30889
+2018-07,2,Operational State,6189
+2018-07,2,Injection Pressure,32809
+2018-08,1,HeaterFailureAlarm,33798
+2018-08,1,XPos,34381
+2018-08,1,ZoneTemp,30389
+2018-08,1,Operational State,5514
+2018-08,1,Injection Pressure,33420
+2018-08,2,HeaterFailureAlarm,31997
+2018-08,2,XPos,32429
+2018-08,2,ZoneTemp,29902
+2018-08,2,Operational State,4889
+2018-08,2,Injection Pressure,32311
+2018-09,1,HeaterFailureAlarm,30209
+2018-09,1,XPos,32001
+2018-09,1,ZoneTemp,27001
+2018-09,1,Operational State,4390
+2018-09,1,Injection Pressure,31801
+2018-09,2,HeaterFailureAlarm,28000
+2018-09,2,XPos,31307
+2018-09,2,ZoneTemp,27104
+2018-09,2,Operational State,4214
+2018-09,2,Injection Pressure,32000
+2018-10,1,HeaterFailureAlarm,28457
+2018-10,1,XPos,31301
+2018-10,1,ZoneTemp,28501
+2018-10,1,Operational State,4109
+2018-10,1,Injection Pressure,32552
+2018-10,2,HeaterFailureAlarm,25556
+2018-10,2,XPos,31302
+2018-10,2,ZoneTemp,29501
+2018-10,2,Operational State,3951
+2018-10,2,Injection Pressure,32900
+2018-11,1,HeaterFailureAlarm,28199
+2018-11,1,XPos,32302
+2018-11,1,ZoneTemp,29501
+2018-11,1,Operational State,2509
+2018-11,1,Injection Pressure,32000
+2018-11,2,HeaterFailureAlarm,25000
+2018-11,2,XPos,31101
+2018-11,2,ZoneTemp,27509
+2018-11,2,Operational State,2989
+2018-11,2,Injection Pressure,30959
+2018-12,1,HeaterFailureAlarm,23568
+2018-12,1,XPos,31001
+2018-12,1,ZoneTemp,27009
+2018-12,1,Operational State,3399
+2018-12,1,Injection Pressure,30851
+2018-12,2,HeaterFailureAlarm,25501
+2018-12,2,XPos,31001
+2018-12,2,ZoneTemp,27001
+2018-12,2,Operational State,3789
+2018-12,2,Injection Pressure,31809
