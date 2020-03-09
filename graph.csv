@@ -29,3 +29,53 @@ month,bidding_no,vehicle_class,premium
 2010-03,2,ZoneTemp,32890
 2010-03,2,Operational State,1200
 2010-03,2,Injection Pressure,42001
+2015-02,2,HeaterFailureAlarm,57199
+2015-02,2,XPos,66751
+2015-02,2,ZoneTemp,53202
+2015-02,2,Operational State,5800
+2015-02,2,Injection Pressure,67901
+2015-03,1,HeaterFailureAlarm,61410
+2015-03,1,XPos,68668
+2015-03,1,ZoneTemp,56501
+2015-03,1,Operational State,5501
+2015-03,1,Injection Pressure,70500
+2015-03,2,HeaterFailureAlarm,64700
+2015-03,2,XPos,71889
+2015-03,2,ZoneTemp,59999
+2015-03,2,Operational State,5610
+2015-03,2,Injection Pressure,72100
+2015-04,1,HeaterFailureAlarm,67749
+2015-04,1,XPos,76612
+2015-04,1,ZoneTemp,64001
+2015-04,1,Operational State,6312
+2015-04,1,Injection Pressure,78000
+2015-04,2,HeaterFailureAlarm,67601
+2015-04,2,XPos,78001
+2015-04,2,ZoneTemp,53001
+2015-04,2,Operational State,6801
+2015-04,2,Injection Pressure,79500
+2014-12,1,HeaterFailureAlarm,67089
+2014-12,1,XPos,74389
+2014-12,1,ZoneTemp,60001
+2014-12,1,Operational State,4210
+2014-12,1,Injection Pressure,76904
+2014-12,2,HeaterFailureAlarm,65889
+2014-12,2,XPos,74000
+2014-12,2,ZoneTemp,52100
+2014-12,2,Operational State,4312
+2014-12,2,Injection Pressure,73990
+2015-01,1,HeaterFailureAlarm,66010
+2015-01,1,XPos,75289
+2015-01,1,ZoneTemp,55011
+2015-01,1,Operational State,4403
+2015-01,1,Injection Pressure,75200
+2015-01,2,HeaterFailureAlarm,65001
+2015-01,2,XPos,76889
+2015-01,2,ZoneTemp,55012
+2015-01,2,Operational State,4889
+2015-01,2,Injection Pressure,76790
+2015-02,1,HeaterFailureAlarm,62002
+2015-02,1,XPos,70890
+2015-02,1,ZoneTemp,52101
+2015-02,1,Operational State,5504
+2015-02,1,Injection Pressure,71921
