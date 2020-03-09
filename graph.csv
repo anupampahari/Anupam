@@ -79,3 +79,28 @@ month,bidding_no,vehicle_class,premium
 2015-02,1,ZoneTemp,52101
 2015-02,1,Operational State,5504
 2015-02,1,Injection Pressure,71921
+2014-07,1,HeaterFailureAlarm,61990
+2014-07,1,XPos,64889
+2014-07,1,ZoneTemp,43390
+2014-07,1,Operational State,4001
+2014-07,1,Injection Pressure,63001
+2014-07,2,HeaterFailureAlarm,62890
+2014-07,2,XPos,65001
+2014-07,2,ZoneTemp,52010
+2014-07,2,Operational State,4252
+2014-07,2,Injection Pressure,65002
+2014-08,1,HeaterFailureAlarm,64600
+2014-08,1,XPos,68689
+2014-08,1,ZoneTemp,54009
+2014-08,1,Operational State,4353
+2014-08,1,Injection Pressure,69001
+2014-08,2,HeaterFailureAlarm,65710
+2014-08,2,XPos,72990
+2014-08,2,ZoneTemp,52390
+2014-08,2,Operational State,4354
+2014-08,2,Injection Pressure,72810
+2014-09,1,HeaterFailureAlarm,64841
+2014-09,1,XPos,73010
+2014-09,1,ZoneTemp,49901
+2014-09,1,Operational State,4453
+2014-09,1,Injection Pressure,74403
